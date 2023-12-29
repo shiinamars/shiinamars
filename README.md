@@ -9,14 +9,14 @@
 - 📫 Reach me at **marcella.dulce32@gmail.com**
 
 <h4 align="center">Connect with me:</h4>
-<p align="center" style="display:flex">
+<p align="center">
 <a href="https://linkedin.com/in/marcelladulce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelladulce" height="30" width="40" /></a>
 <a href="https://fb.com/dulce.marcellagrace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulce.marcellagrace" height="30" width="40" /></a>
 </p>
 
 ---
 <h4 align="center">Languages and Tools:</h4>
-<p align="center"> 
+<p align="center" style="display:flex;"> 
 <a href="https://www.blender.org/" target="blank" rel="noreferrer"> 
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
 </a> 
