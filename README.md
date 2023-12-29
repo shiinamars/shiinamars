@@ -37,5 +37,8 @@
 <br/><br/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiinamars&theme=dark" alt="shiinamars" />
 <br/><br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiinamars&layout=compact&count_private=true&show_icons=true&theme=github_dark" />
+<br/><br/>
+  
 </div>
 
