@@ -16,7 +16,7 @@
 
 ---
 <h4 align="center">Languages and Tools:</h4>
-<p align="center" style="display:flex;"> 
+<p align="center" style="display:flex"> 
 <a href="https://www.blender.org/" target="blank" rel="noreferrer"> 
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
 </a> 
