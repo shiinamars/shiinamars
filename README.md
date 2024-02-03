@@ -2,7 +2,7 @@
 <h3 align="center">🪐Welcome to my Github Profile!🪐</h3>
 <h3>🔭 About Me 🔭</h3>
 
-- 💻 I'm an aspiring Data Analyst.
+- 💻 I'm an aspiring Data Analyst and Programmer. Open to new opportunities and tech positions.
 - 👩🏻‍🎓 I am a BS in Information System student at Technological University of the Philippines.
 - 🌱 I am currently learning the Data Analyst with Python career track on DataCamp.
 - ⏰ In my free time I like to code and learn more about data science, and learn hiragana (still a rookie👁👅👁).
